@@ -1,0 +1,2 @@
+# Pharmaceutical-Sales-Force-Effectiveness-Demand-Analytics
+healthcare commercial analytics and business intelligence solution designed to analyze global pharmaceutical sales trends from 2020–2025. The objective of the project is to identify high-growth regions, product demand patterns, inventory risks, and operational insights that can support strategic decision-making for pharmaceutical businesses.
