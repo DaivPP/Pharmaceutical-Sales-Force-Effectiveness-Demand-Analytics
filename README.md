@@ -214,7 +214,7 @@ Features:
 # Project Structure
 
 ```text
-Pharma-Sales-Effectiveness-Analytics/
+Pharmaceutical-Sales-Force-Effectiveness-Demand-Analytics/
 │
 ├── data/
 │   ├── raw/
